@@ -31,7 +31,7 @@ canvas.geometry("600x500")
 canvas.title("Weather App")
 canvas.config(bg="white")
 
-f = ("open sans", 15, "bold")
+f = ("open sans", 16, "bold")
 t = ("open sans", 35, "bold")
 
 textfield = tk.Entry(canvas, font=f)
